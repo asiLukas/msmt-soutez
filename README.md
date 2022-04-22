@@ -1,2 +1,2 @@
-# msmt-soutez
-repositar pro moje reseni v soutezi v programovani 35. rocnik
+# Soutěž MŠMT
+Zadání a moje řešení krajského kola 35. ročníku soutěže v programování pro mládež. 
